@@ -1,0 +1,4 @@
+admin admin123 admin 0
+cris 123 tercero 0
+Patino 123 tercero 0
+jordao 123 socio 300000
